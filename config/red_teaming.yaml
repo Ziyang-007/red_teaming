@@ -1,4 +1,4 @@
-_cls_: recipes.red_teaming.RedTeamer
+_cls_: recipe.red_teaming.RedTeamer
 threshold: 0.2
 n_seeds: 50
 n_iterations: 5
