@@ -9,7 +9,7 @@ dependencies:
 - torch
 
 ## Run
-Update your GPT key:
+Update your GPT key/ Regulation/ Misconduct:
 [Makefile](https://github.com/duytai/red_teaming/blob/main/Makefile#L3)
 ```bash
 make
